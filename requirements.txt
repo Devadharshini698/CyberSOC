@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+networkx
+websockets
+openai
+tenacity
+openenv-core
+
+aiofiles
